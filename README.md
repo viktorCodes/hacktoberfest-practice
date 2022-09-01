@@ -1241,7 +1241,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Victory Chiamaka Wekwa](https://github.com/VictoryWekwa)
   - [Vikas Bhalla](https://github.com/vikasbhalla05)
   - [Vikas Ganiga](https://github.com/vikasganiga05/)
-  - [Victor Nkwanyuo](https://github.com/viktorCodes)
+  - [Victor Nkwanyuo](https://github.com/viktorCodes/)
   - [Vinayak Raj](https://github.com/vinayak0127/)
   - [Vikas Ganiga](https://github.com/vikasganiga05)
   - [Vikas Singh](https://gihub.com/vikasdfghjl)
